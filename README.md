@@ -1,7 +1,5 @@
 # php-jwt
-Minimal implementation of JWT in PHP. A simple code to encode and decode JSON Web Tokens (JWT) in PHP, conforming to RFC 7519.
-
-# Library to encode and decode JSON Web Tokens (JWT) in PHP
+Minimal implementation of JWT in PHP. A simple code to encode and decode JSON Web Tokens (JWT) in PHP, conforming to RFC 7519. Library to encode and decode JSON Web Tokens (JWT) in PHP
 [PHP-JWT by Firebase](https://github.com/firebase/php-jwt)
 
 # SQL users table structure
